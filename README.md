@@ -13,4 +13,4 @@
 ![Result 1](Project%20Display/result1.png "Result 1 Segment")
 
 ## Result 1 Continued
-![Result 1 Continued](Project%20Display/result1.png "Result 1 Continued Segment")
+![Result 1 Continued](Project%20Display/result2.png "Result 1 Continued Segment")
