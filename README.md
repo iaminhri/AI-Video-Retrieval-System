@@ -1,7 +1,7 @@
 # AI Video Retrieval System
 
 ## Home Page
-![Image 1 Alt Text](Project Display/Homepage.png "Web Interface: Home Page")
+![Image 1 Alt Text](Project%20Display/Homepage.png "Web Interface: Home Page")
 
 ## Upload Page
 ![Image 2 Alt Text](Project Display/Homepage.png "Image 2 Title")
