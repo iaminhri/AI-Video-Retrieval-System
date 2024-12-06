@@ -11,4 +11,6 @@
 
 ## Result 1
 ![Image 4 Alt Text](Project%20Display/result1.png "result show")
+
+## Result 1 Continued
 ![Result 5 Continued](Project%20Display/result2.png "Result 1 Continued Segment")
