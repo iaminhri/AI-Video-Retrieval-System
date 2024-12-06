@@ -10,7 +10,7 @@
 ![Image 3 Alt Text](Project%20Display/Showcase.png "Video Gallery")
 
 ## Result 1
-![Result 1](Project%20Display/result1.png "Result 1 Segment")
+![Image 4 Alt Text](Project%20Display/result1.png "result show")
 
 ## Result 1 Continued
-![Result 1 Continued](Project%20Display/result2.png "Result 1 Continued Segment")
+![Result 5 Continued](Project%20Display/result2.png "Result 1 Continued Segment")
